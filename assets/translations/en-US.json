@@ -1,0 +1,20 @@
+{
+  "edit": "Edit",
+  "delete": "Delete",
+  "settings": "Settings",
+  "me": "Akmaljon Ahmadjonov",
+  "noNote": "You do not have any notes yet",
+  "+": "+",
+  "create": "Create a note",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "set": "Set an image",
+  "title": "Title",
+  "here": "Your notes here",
+  "setting": "Settings Page",
+  "english": "English",
+  "russian": "Russian",
+  "uzbek": "Uzbek",
+  "selected": "Selected choice: $selectedChoice",
+  "note": "Note App"
+}

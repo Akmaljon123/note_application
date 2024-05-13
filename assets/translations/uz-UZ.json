@@ -1,0 +1,20 @@
+{
+  "edit": "Tahrirlash",
+  "delete": "O'chirish",
+  "settings": "Sozlamalar",
+  "me": "Akmaljon Ahmadjonov",
+  "noNote": "Hali ham hech qanday eslatma yo'q",
+  "+": "+",
+  "create": "Eslatma yaratish",
+  "camera": "Kamera",
+  "gallery": "Galereya",
+  "set": "Rasmni sozlash",
+  "title": "Sarlavha",
+  "here": "Sizning eslatmalaringiz shu joyda",
+  "setting": "Sozlamalar sahifasi",
+  "english": "Ingliz tili",
+  "russian": "Rus tili",
+  "uzbek": "O'zbek tili",
+  "selected": "Tanlangan tanlov: $selectedChoice",
+  "note": "Eslatma Dasturi"
+}
